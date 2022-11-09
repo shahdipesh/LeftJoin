@@ -11,7 +11,7 @@ public class Main {
         String lineFile1 = br1.readLine();
         String lineFile2 = br2.readLine();
         String inputAttributeStr = args[2];
-        String outputPath ="/Users/dipeshasd/Desktop/Database_Join/src/Output.txt";
+        String outputPath ="./output.txt";
 
         int numberOfAttributes = inputAttributeStr.split(",").length;
 
